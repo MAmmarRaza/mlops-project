@@ -1,6 +1,4 @@
 [core]
     remote = mlops-dvc
-['remote "myremote"']
-    url = E:\datasets\insurance-dataset
 ['remote "mlops-dvc"']
-    url = s3://dvc-center/data
+    url = s3://dvc-center-data/data

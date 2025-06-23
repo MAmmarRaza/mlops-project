@@ -1,0 +1,15 @@
+artifact_uri: /home/devops/mlops/project3/ml-project/mlruns/987849116712156401/2692b817dac84262967198f4ae240d99/artifacts
+end_time: 1750673473010
+entry_point_name: ''
+experiment_id: '987849116712156401'
+lifecycle_stage: active
+run_id: 2692b817dac84262967198f4ae240d99
+run_name: wise-cow-213
+run_uuid: 2692b817dac84262967198f4ae240d99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750673465314
+status: 4
+tags: []
+user_id: devops

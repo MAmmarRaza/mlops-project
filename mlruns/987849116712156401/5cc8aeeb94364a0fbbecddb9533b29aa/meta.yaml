@@ -1,0 +1,15 @@
+artifact_uri: /home/devops/mlops/project3/ml-project/mlruns/987849116712156401/5cc8aeeb94364a0fbbecddb9533b29aa/artifacts
+end_time: 1750674889228
+entry_point_name: ''
+experiment_id: '987849116712156401'
+lifecycle_stage: active
+run_id: 5cc8aeeb94364a0fbbecddb9533b29aa
+run_name: welcoming-bird-532
+run_uuid: 5cc8aeeb94364a0fbbecddb9533b29aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750674889212
+status: 4
+tags: []
+user_id: devops

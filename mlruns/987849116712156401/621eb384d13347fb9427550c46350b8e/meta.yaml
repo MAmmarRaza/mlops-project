@@ -1,0 +1,15 @@
+artifact_uri: /home/devops/mlops/project3/ml-project/mlruns/987849116712156401/621eb384d13347fb9427550c46350b8e/artifacts
+end_time: 1750674429357
+entry_point_name: ''
+experiment_id: '987849116712156401'
+lifecycle_stage: active
+run_id: 621eb384d13347fb9427550c46350b8e
+run_name: stately-cub-565
+run_uuid: 621eb384d13347fb9427550c46350b8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750674429347
+status: 4
+tags: []
+user_id: devops

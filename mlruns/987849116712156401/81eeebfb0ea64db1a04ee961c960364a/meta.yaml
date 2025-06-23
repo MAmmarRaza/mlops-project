@@ -1,4 +1,4 @@
-artifact_uri: file:///C:/Users/prsdm/OneDrive/Desktop/ml-project/mlruns/987849116712156401/81eeebfb0ea64db1a04ee961c960364a/artifacts
+artifact_uri: /home/devops/mlops/project3/ml-project/mlruns/987849116712156401/81eeebfb0ea64db1a04ee961c960364a/artifacts
 end_time: 1724158863020
 entry_point_name: ''
 experiment_id: '987849116712156401'

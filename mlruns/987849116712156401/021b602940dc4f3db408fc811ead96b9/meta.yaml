@@ -1,0 +1,15 @@
+artifact_uri: /home/devops/mlops/project3/ml-project/mlruns/987849116712156401/021b602940dc4f3db408fc811ead96b9/artifacts
+end_time: 1750676682824
+entry_point_name: ''
+experiment_id: '987849116712156401'
+lifecycle_stage: active
+run_id: 021b602940dc4f3db408fc811ead96b9
+run_name: monumental-bee-816
+run_uuid: 021b602940dc4f3db408fc811ead96b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750676675271
+status: 3
+tags: []
+user_id: devops
